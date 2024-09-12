@@ -20,6 +20,8 @@ Court Detection Model: https://drive.google.com/file/d/1Ti-mn45zn7YqytOxgoenU7fO
 
 Ball Detection Model: https://drive.google.com/file/d/11RZ1sNPtLY7lwf8479BmfCcDDhMrRp5V/view?usp=sharing
 
+Bounce Detection Model: https://drive.google.com/file/d/1S-NzRPnqFC6WEKD3A0nMCCaZAtAQUQBR/view?usp=sharing
+
 **How to run**
 
 Open the GameSense_AnM.ipynb file on Google Colab
