@@ -15,7 +15,9 @@ and AI/ML algorithms. Centered around two-player sport tennis, the project aims 
 metrics such as rally lengths and player activity.
 
 **Link for models used**
+
 Court Detection Model: https://drive.google.com/file/d/1Ti-mn45zn7YqytOxgoenU7fOmM5NMvxb/view?usp=sharing
+
 Ball Detection Model: https://drive.google.com/file/d/11RZ1sNPtLY7lwf8479BmfCcDDhMrRp5V/view?usp=sharing
 
 **How to run**
