@@ -15,6 +15,7 @@ and AI/ML algorithms. Centered around two-player sport tennis, the project aims 
 metrics such as rally lengths and player activity.
 
 **How to run**
+
 Open the GameSense_AnM.ipynb file on Google Colab
 Prepare a video file with resolution 1280x720
 Recommended to run on GPU
