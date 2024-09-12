@@ -19,6 +19,7 @@ metrics such as rally lengths and player activity.
 Court Detection Model: https://drive.google.com/file/d/1Ti-mn45zn7YqytOxgoenU7fOmM5NMvxb/view?usp=sharing
 
 Ball Detection Model: https://drive.google.com/file/d/11RZ1sNPtLY7lwf8479BmfCcDDhMrRp5V/view?usp=sharing
+(Source: https://github.com/yastrebksv/TrackNet)
 
 Bounce Detection Model: https://drive.google.com/file/d/1S-NzRPnqFC6WEKD3A0nMCCaZAtAQUQBR/view?usp=sharing
 
